@@ -1,2 +1,2 @@
 # pushquest
-arcade style group fitness challenge app
+the daily pushup challenge
